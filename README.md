@@ -31,3 +31,5 @@ These are the assets I've created on LHD Share. I'm a guild member of EddieHub c
 - https://github.com/prathimacode-hub/lhdshare-assets/blob/main/MLH%20Create%20a%20Travel%20Brochure.pdf (Travel Brochure)
 - https://github.com/prathimacode-hub/lhdshare-assets/blob/main/MLH%20MS%20Paint%20Bob%20Ross.jpg (MS Paint Bob Ross)
 - https://github.com/prathimacode-hub/lhdshare-assets/blob/main/MLH%20Share%20your%20cofee%20with%20Guild.png (Coffee with Guild)
+- https://github.com/prathimacode-hub/lhdshare-assets/blob/main/MLH%20Share%20a%20presentation-NodeMCU.pdf (Share a presentation-NodeMCU)
+- https://github.com/prathimacode-hub/lhdshare-assets/blob/main/MLH%20Create%20a%20Mascot%20-%20Python.png (Mascot-Python)
